@@ -1,0 +1,45 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+.Python
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Django specific
+*.sqlite3
+db.sqlite3
+
+# Environment variables / secrets
+.env
+*.env
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Static & media files (if generated)
+staticfiles/
+media/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
